@@ -1,2 +1,4 @@
 # Notepad-Python
-Only for Educational purpose
+Notepad using python tkinter module.
+
+# Screen Shot
